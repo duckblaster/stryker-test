@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="MSTest.TestFramework" Version="4.4.1" Condition="'$(UsingMSTestSdk)' != 'true'" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+{
+  "stryker-config": {
+    "project": "BTW.Shared.Aspire.Testing.csproj",
+    "test-projects": ["BTW.Shared.Aspire.Testing.Tests.csproj"],
+    "test-runner": "mtp",
+    "mutation-level": "Advanced",
+    "language-version": "latest",
+    "reporters": ["html", "json", "progress", "cleartext", "markdown"]
+  }
+}

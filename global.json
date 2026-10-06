@@ -1,0 +1,12 @@
+{
+  "msbuild-sdks": {
+    "Aspire.AppHost.Sdk": "13.6.0",
+    "MSTest.Sdk": "4.4.1"
+  },
+  "test": {
+    "runner": "Microsoft.Testing.Platform"
+  },
+  "sdk": {
+    "version": "10.0.401"
+  }
+}

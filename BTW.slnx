@@ -1,0 +1,10 @@
+<Solution>
+    <Folder Name="/Libraries/">
+    </Folder>
+    <Folder Name="/Libraries/Aspire/">
+        <Project Path="Libraries/Aspire/BTW.Shared.Aspire.Testing/BTW.Shared.Aspire.Testing.csproj" />
+    </Folder>
+    <Folder Name="/Libraries/Aspire/Tests/">
+        <Project Path="Libraries/Aspire/Tests/BTW.Shared.Aspire.Testing.Tests/BTW.Shared.Aspire.Testing.Tests.csproj" />
+    </Folder>
+</Solution>
